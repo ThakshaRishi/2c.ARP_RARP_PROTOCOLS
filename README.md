@@ -2,11 +2,6 @@
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
-1. Set up ARP requester and responder nodes with unique IP and MAC addresses.
-2. Establish a TCP connection between requester and responder.
-3. Request MAC address for a given IP from the requester.
-4. Responder sends its MAC address in response.
-5. Close TCP connection.
 ## Client:
 1. Start the program
 2. Using socket connection is established between client and server.
